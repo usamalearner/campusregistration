@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868182093478",
+    "project_id": "nedcampusapp",
+    "storage_bucket": "nedcampusapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868182093478:android:f053bdec7feb910c7a4e67",
+        "android_client_info": {
+          "package_name": "com.ned"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868182093478-hai6nl7vd47lgetnrn9dcjmt3tg66p8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIAXTG6QztSKb84hLtcGE-sVI82VVD1_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868182093478-hai6nl7vd47lgetnrn9dcjmt3tg66p8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

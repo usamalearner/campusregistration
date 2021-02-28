@@ -1,0 +1,30 @@
+ {/* <form onSubmit={handleSubmit(onSubmit)}>
+      <input type="text" placeholder="First Name" name="First Name" ref={register({required: true, maxLength: 80})} />
+      <input type="text" placeholder="Last name" name="Last name" ref={register({required: true, maxLength: 100})} />
+      <input type="text" placeholder="Email" name="Email" ref={register({required: true, pattern: /^\S+@\S+$/i})} />
+      <input type="tel" placeholder="Mobile number" name="Mobile number" ref={register({required: true, minLength: 6, maxLength: 12})} />
+      <select name="Gender" ref={register({ required: true })}>
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+        <option value="Other">Other</option>
+      </select>
+
+      <input name="Weight Kg" type="radio" value="Yes" ref={register({ required: true })}/>
+      <input name="Weight Kg" type="radio" value="No" ref={register({ required: true })}/>
+      <input type="text" placeholder="Location" name="Location" ref={register({required: true})} />
+      <select name="Blood Group" ref={register({ required: true })}>
+        <option value="A+">A+</option>
+        <option value="A-">A-</option>
+        <option value="B+">B+</option>
+        <option value="B-">B-</option>
+        <option value="AB+">AB+</option>
+        <option value="AB-">AB-</option>
+        <option value="O+">O+</option>
+        <option value="O-">O-</option>
+      </select>
+
+      <input type="submit" />
+         </form> 
+  
+      //   </Content>
+      // </Container>
